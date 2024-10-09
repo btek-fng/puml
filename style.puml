@@ -1,0 +1,6 @@
+skinparam {
+  DefaultFontName "Fira Mono"
+
+  monochrome true
+  shadowing false
+}
