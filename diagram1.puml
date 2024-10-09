@@ -1,0 +1,5 @@
+@startuml diagram1
+class "Foo" as foo {
+ ...attributes
+}
+@enduml
