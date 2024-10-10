@@ -1,0 +1,10 @@
+@startuml partial
+
+!startsub PARTIAL
+  A -> B
+  activate B
+  A <-- B
+  deactivate B
+!endsub
+
+@enduml
