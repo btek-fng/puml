@@ -1,20 +1,5 @@
 @startuml diagram1
-'class "Foo" as foo {
-' ...attributes
-'}
-
-!startsub PARTIAL1
-  A -> B
-  activate B
-  A <-- B
-  deactivate B
-!endsub
-
-!startsub PARTIAL2
-  A2 -> B2
-  activate B2
-  A2 <-- B2
-  deactivate B2
-!endsub
-
+class "Foo" as foo {
+ ...attributes
+}
 @enduml
