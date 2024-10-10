@@ -1,0 +1,15 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!define IMAGESSURL https://raw.githubusercontent.com/plantuml-stdlib/gilbarbara-plantuml-sprites/v1.1/pngs
+
+' !$ICONURL = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v3.0.0/icons"
+' !include $ICONURL/common.puml
+' !include $ICONURL/font-awesome-5/server.puml
+
+!include <tupadr3/font-awesome-5/server>
+!include <tupadr3/font-awesome-5/cog>
+
+skinparam wrapWidth 360
+skinparam noteTextAlignment left
+
+@enduml
